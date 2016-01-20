@@ -1,0 +1,8 @@
+Original array: 2 3 4 5 6 10 9 8 7
+Sorted array: 2 3 4 5 6 7 8 9 10 
+
+Original array: 1 2 4 3
+Sorted array: Number of elements in array bigger than VNT size
+
+Original array: -1 9 0 100
+Sorted array: -1 0 9 100 
